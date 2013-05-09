@@ -1,11 +1,11 @@
 Summary:	Xfce Notification Daemon
 Name:		xfce4-notifyd
-Version:	0.2.3
+Version:	0.2.4
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://archive.xfce.org/src/apps/xfce4-notifyd/0.2/%{name}-%{version}.tar.bz2
-# Source0-md5:	97c02482f96211251a420d12c34dda3d
+# Source0-md5:	094be6f29206aac8299f27084e284e88
 URL:		http://goodies.xfce.org/projects/applications/xfce4-notifyd
 BuildRequires:	autoconf
 BuildRequires:	automake
